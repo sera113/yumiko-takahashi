@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "anime": "Your Anime Title",
+        "name": "Your Song Name",
+        "video": "https://your-video-url.com",
+        "mp3": "https://your-mp3-url.com"
+    },
+    {
+        "id": 2,
+        "anime": "Another Anime Title",
+        "name": "Another Song Name",
+        "video": "https://another-video-url.com",
+        "mp3": "https://another-mp3-url.com"
+    },
+    {
+        "id": 3,
+        "anime": "Example Anime",
+        "name": "Example Song",
+        "video": "https://eudist.animemusicquiz.com/example.webm",
+        "mp3": "https://eudist.animemusicquiz.com/example.mp3"
+    }
+]
